@@ -1,1 +1,1 @@
-print("The best fetch lesson ever!")
+print("How do I update my local repoistory to get remote changes?")
