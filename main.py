@@ -1,1 +1,1 @@
-print("Fetch lesson")
+print("The best fetch lesson ever!")
